@@ -1,6 +1,6 @@
 # Android-Hustoo
 华科校园软件Hustoo Hust
-##简介/Abstract
+##简介/Abstract 
 
 一款华科校园软件，含教务通知，华科社区，天气预报(Hust)，每日美文鸡汤音乐分享等。 
 <br/><br/>
@@ -31,8 +31,7 @@ weather forecast, daily notes chicken stock share music, etc.
 - <a href="http://blog.csdn.net/cxmscb">个人博客</a> -
 
 
-License
--------
+##License
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
