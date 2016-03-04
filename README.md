@@ -31,8 +31,8 @@ weather forecast, daily notes chicken stock share music, etc.
 - <a href="http://blog.csdn.net/cxmscb">个人博客</a> -
 
 
-##License
-
+License
+--------
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
